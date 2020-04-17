@@ -172,7 +172,7 @@
                 <Share on:click={handleClick}/>
             </Modal>
         </div>
-    {/if}}
+    {/if}
 
     <div class="Card-container">
         <div class="Card-header">
