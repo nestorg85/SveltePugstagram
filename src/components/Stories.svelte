@@ -53,17 +53,6 @@
     .Stories-items {
         margin: 0.5em 0 0.5em 0;
     }
-
-    .Stories-item-box {
-        width: 32px;
-        height: 32px;
-        border: double 2px transparent;
-        border-radius: 100%;
-        background-image: linear-gradient(#fff, #fff),
-        radial-gradient(circle at top left, #f09433, #bc1888);
-        background-origin: border-box;
-        background-clip: content-box, border-box;
-    }
 </style>
 
 <div class="Stories">
